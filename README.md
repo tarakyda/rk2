@@ -9,3 +9,4 @@ The Interpreter pattern has behavioral purpose and applies to the classes.
 * when the grammar is simple (in case of complex grammars, there are better alternatives)
 * efficiency is not a critical concern# rk2
 # rk2
+# rk2
